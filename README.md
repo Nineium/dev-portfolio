@@ -1,4 +1,4 @@
-# Jan's Developer Portfolio
+#  Developer Portfolio
 
 This is my personal developer portfolio website built with React, TypeScript, Tailwind CSS, and Vite.
 
