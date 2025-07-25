@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./sections/Hero";
+import Footer from "./components/Footer";
 
 const texts = {
   en: {
@@ -36,6 +37,7 @@ function App() {
         />
         {/* We'll add more sections here soon */}
       </main>
+      <Footer/>
     </div>
   );
 }
