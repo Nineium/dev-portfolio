@@ -31,12 +31,4 @@ This is my personal developer portfolio website built with React, TypeScript, Ta
 - Navigation links with modern styling and color transitions
 - Language toggle button that switches between English and Polish labels
 - Theme toggle button that switches between dark and light modes
-- Responsive layout that prevents button overlap on smaller screens
-
-## How to Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/janme/janme-dev-portfolio.git
-   cd janme-dev-portfolio
+- Responsive layout that prevents button overlap on smaller screen
